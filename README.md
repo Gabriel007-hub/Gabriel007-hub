@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @conte vlad-hub
+- 👋 Hi, I’m @conte vlad vixx
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-conte vlad-hub/conte vlad-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+conte vlad vixx/conte vlad vixxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
